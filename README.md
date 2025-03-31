@@ -7,11 +7,7 @@ A vscode extension that adds digital monsters (or Digimon) into your code editor
 - Digimon may be initiate mini battles between themselves (can be diasbled in Settings)
 - User can choose to digivolve their digimon
 - Some digimon can provide aid to the user when coding (can be disabled in Settings)
-    - Calcumon / Karikyumon  -  Pops up and points out mathematical errors/exceptions and provides solution suggestions
-    - Datamon / Nanomon  -  Pops up and points out syntax errors and provides solution suggestions
-    - Bakemon  -  Appears, notifies of, and suggests solutions for errors/exceptions relating to abscence (ex: when a method used to read a passed file argument is called, but no method was passed, or when a class does not contain a specified variable.)
-    - Tentomon  -  Appears, noties, and provides suggestions for any non-specified group of errors/exceptions
-    - Impmon  -  Appears and notifies of endless loops
+- Environment options: Desert (digital world), Tundra (digital world), Forest (digital world), Shibuya Station (real world), Shinjuku Park (real world), Rainbrow Bridge in Odaiba (real world)
 
 ## Digimon Seasons / Categories
 1. Adventure
@@ -26,3 +22,6 @@ A vscode extension that adds digital monsters (or Digimon) into your code editor
 - JavaScript
 - C++
 - C#
+
+
+--Inspired by vscode-pets and vscode-pokemon--
