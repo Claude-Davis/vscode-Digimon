@@ -1,0 +1,11 @@
+IMPMON SPRITE BEHAVIORS
+
+- turning (left and right)
+
+- walking
+
+- summons fireball on hand/finger
+
+- throws fireball(s?)
+
+- eating

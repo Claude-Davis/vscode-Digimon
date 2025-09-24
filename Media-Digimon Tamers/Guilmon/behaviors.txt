@@ -1,0 +1,9 @@
+GUILMON SPRITE BEHAVIORS
+
+- turning (left and right)
+
+- walking
+
+- pyro sphere (red beam shot from mouth)
+
+- eating
