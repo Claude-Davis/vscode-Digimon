@@ -1,0 +1,9 @@
+BAKEMON SPRITE BEHAVIORS
+
+- turning (left and right)
+
+- floating
+
+- dark claw (attack that extends its hands)
+
+- eating

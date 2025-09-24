@@ -1,0 +1,11 @@
+TAILMON SPRITE BEHAVIORS
+
+- turning (left and right)
+
+- walking
+
+- jumping on 4s (cat-like movement)
+
+- scratches at the air (similar to vscode cats)
+
+- eating
