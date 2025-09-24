@@ -1,0 +1,11 @@
+ARMADILLOMON SPRITE BEHAVIORS
+
+- turning (left and right)
+
+- walking
+
+- rolls into a ball
+
+- rolls into a ball and rolls around
+
+- eating
